@@ -6,4 +6,4 @@ The car booking system is an online platform that allows users to rent a vehicle
 
 website on the net: https://muhammadadamfahmi.000webhostapp.com/
 
-full report on the system https://docs.google.com/document/d/1TQt-RRTlHBGkBwLqAl44N2Z9gI0BJoA85YavYNKUQm4/edit?usp=sharing
+full report about the system https://docs.google.com/document/d/1TQt-RRTlHBGkBwLqAl44N2Z9gI0BJoA85YavYNKUQm4/edit?usp=sharing
